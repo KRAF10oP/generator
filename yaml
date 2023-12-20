@@ -1,0 +1,4 @@
+dependencies:
+ flutter:
+    sdk: flutter
+ clipboard: ^0.1.2
